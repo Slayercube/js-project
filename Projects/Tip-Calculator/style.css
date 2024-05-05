@@ -8,12 +8,13 @@ body{
     justify-content: center;
     align-items: center;
     height: 100vh;
+   
 }
 #calculate{
     background-color: skyblue;
     color: white;
     border: none;
-    padding: 5px 20px;
+    padding: 5px 10px;
     font-size: 1.2rem;
     cursor: pointer;
     margin-top: 10px;
@@ -21,4 +22,7 @@ body{
 #calculate:hover{
     background-color: #00bfff;
     
+}
+#total{
+    margin-top: 5%;
 }
